@@ -9,7 +9,14 @@ English - PDF
 German - Plain Text  
 German - PDF | NotoSans | GentiumPlus | Junicode | Roboto | Custom01 | Custom02 | Custom03  
 
-# Շամիրամի առասպելը.
+# Շամիրամի առասպելը:
+
+English - Plain Text  
+English - PDF  
+Armenian - Plain Text  
+Armenian - PDF | NotoSans | GentiumPlus | Junicode | Roboto | Custom01 | Custom02 | Custom03  
+
+# Հայ ժողովրդական առասպելները Մ. Խորենացու Հայոց պատմութեան մեջ: քննադատութիւն եւ ուսուածք:
 
 English - Plain Text  
 English - PDF  
