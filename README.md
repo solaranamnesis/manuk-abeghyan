@@ -1,6 +1,6 @@
-# Manuk Abeghyan.
+# Մանուկ Աբեղյան (Manuk Abeghyan).
 
-Public Domain Works by Manuk Abeghyan (1865-1944).
+Public Domain Works by Մանուկ Աբեղյան (Manuk Abeghyan) (1865-1944).
 
 # Der armenische Volksglaube.
 
