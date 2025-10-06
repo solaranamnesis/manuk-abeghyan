@@ -9,7 +9,7 @@ English - PDF
 German - Plain Text  
 German - PDF | NotoSans | GentiumPlus | Junicode | Roboto | Custom01 | Custom02 | Custom03  
 
-## Շամիրամի առասպելը։
+## Շամիրամի Առասպելը։
 
 English - Plain Text  
 English - PDF  
