@@ -1,4 +1,4 @@
-# Շամիրամի առասպելը։
+# Շամիրամի Առասպելը։
 
 English - Plain Text  
 English - PDF  
