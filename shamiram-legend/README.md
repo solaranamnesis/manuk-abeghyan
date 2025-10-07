@@ -3,6 +3,6 @@
 English - Plain Text  
 English - PDF  
 [Armenian - Plain Text](full-text-armenian.md)  
-Armenian - PDF | DejaVuSans | GHEA Grapalat | Shatrvan | Hianali | CustomDesign1 | CustomDesign2 | CustomDesign3  
+[Armenian - PDF](https://cdn.solaranamnesis.com/AlexanderMatikian/abeghyan-shamiram-legend-1901.pdf) | [DejaVuSans](https://cdn.solaranamnesis.com/AlexanderMatikian/abeghyan-shamiram-legend-1901-dejavusans.pdf) | [GHEA Grapalat](https://cdn.solaranamnesis.com/AlexanderMatikian/abeghyan-shamiram-legend-1901-GHEAGrapalat.pdf) | [Shatrvan](https://cdn.solaranamnesis.com/AlexanderMatikian/abeghyan-shamiram-legend-1901-shatrvan.pdf) | [Hianali](https://cdn.solaranamnesis.com/AlexanderMatikian/abeghyan-shamiram-legend-1901-hianali.pdf) | [CustomDesign1](https://cdn.solaranamnesis.com/AlexanderMatikian/abeghyan-shamiram-legend-1901-custom01.pdf) | [CustomDesign2](https://cdn.solaranamnesis.com/AlexanderMatikian/abeghyan-shamiram-legend-1901-custom02.pdf) | [CustomDesign3](https://cdn.solaranamnesis.com/AlexanderMatikian/abeghyan-shamiram-legend-1901-custom03.pdf)  
 
 [Original Newspaper Source.](https://arar.sci.am/dlibra/publication/85135)
